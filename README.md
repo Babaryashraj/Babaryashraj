@@ -1,4 +1,5 @@
 # Hi 👋, I'm Yashraj Babar
+💻 Full-Stack Developer (MERN) | 🧠 DSA (150+) | 🤖 ML-Based Projects | ⚙️ Backend & API Development
 
 💻 Full-Stack Developer (MERN)  
 🧠 Solved 150+ DSA Problems  
