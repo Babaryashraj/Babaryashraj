@@ -21,14 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Babaryashraj&show_icons=true)
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Babaryashraj)
-
----
-
 ## 📫 Connect
 LinkedIn: linkedin.com/in/yashraj-babar-7a707b2ab
 
