@@ -22,7 +22,10 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Babaryashraj&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Babaryashraj&show_icons=true)
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Babaryashraj)
 
 ---
 
