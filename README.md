@@ -114,8 +114,7 @@
 
 # 🚀 Featured Projects
 
-### 🌱 EcoTrackAI
-AI-powered Carbon Footprint Tracking Platform with analytics, prediction, and sustainability insights.
+
 
 ### 🎓 Engineer's Hub
 A full-stack career platform connecting students, recruiters, and colleges.
@@ -126,16 +125,24 @@ JWT Authentication, Role-Based Access Control (RBAC), and secure REST APIs.
 ### 🤖 Course Recommendation System
 Machine Learning recommendation engine built using Python, Scikit-learn, and Flask.
 
-### 💼 Portfolio Website
-Modern responsive developer portfolio built with React.js and Framer Motion.
+###  AgriArya - Smart Farming Platform
+Created a smart agriculture platform delivering crop recommendations, farming guidance, and real-time farming insights for farmers.
 
+### NutriSyncAI - AI Nutrition Assistant
+Developed an AI-powered nutrition assistant for monitoring user health metrics and generating personalized dietary recommendations.
+
+###  Smart Reimbursement Management System
+Engineered a secure reimbursement management platform with separate dashboards for employees, managers, and administrators.
+
+### RoamWise - Smart Travel Planner
+Modern travel management dashboard with itinerary planning, group expense tracking, packing lists, and travel memories.
 ---
 
 # 🌐 Portfolio
 
 <div align="center">
 
-<a href="https://your-portfolio-link.vercel.app">
+<a href="https://portfolio-delta-pearl-89.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-blue?style=for-the-badge"/>
 </a>
 
@@ -153,16 +160,8 @@ Explore my portfolio to discover my projects, technical skills, certifications, 
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Yashoooo/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
@@ -177,7 +176,7 @@ Explore my portfolio to discover my projects, technical skills, certifications, 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="yashrajbabar777@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
