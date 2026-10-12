@@ -27,13 +27,13 @@
 
 🧠 Solved **150+ DSA Problems**
 
-🤖 Passionate about Machine Learning & AI
+🤖 Proficiency In Machine Learning & Deep Learning
 
 ⚙️ Strong in Backend Development & REST APIs
 
 🚀 Building real-world scalable applications
 
-🌱 Currently learning Android Development & System Design
+🌱 Currently learning System Design
 
 🎯 Preparing for Software Engineer Roles
 
@@ -56,7 +56,7 @@
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
 ## 🤖 Machine Learning
